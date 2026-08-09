@@ -1,11 +1,7 @@
 class Solution(object):
     def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        data=[]
         nums.sort()
+        data=[]
         n=len(nums)
         for i in range(n-2):
             if i>0 and nums[i]==nums[i-1]:
@@ -27,5 +23,5 @@ class Solution(object):
                     l+=1
                 else:
                     r-=1
-                
         return data
+

@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        new=[]
+        data=[]
         nums.sort()
         n=len(nums)
         for i in range(n-2):
@@ -14,21 +14,18 @@ class Solution(object):
             r=n-1
 
             while l<r:
-                add=nums[i] + nums[l] +nums[r]
-
-                if add==0:
-                    new.append([nums[i],nums[l],nums[r]])
+                if nums[i]+nums[l]+nums[r]==0:
+                    data.append([nums[i],nums[l],nums[r]])
 
                     while l<r and nums[l]==nums[l+1]:
                         l+=1
                     while l<r and nums[r]==nums[r-1]:
                         r-=1
-
                     l+=1
                     r-=1
-                elif add<0:
+                elif nums[i]+nums[l]+nums[r]<0:
                     l+=1
                 else:
                     r-=1
-                   
-        return new
+                
+        return data

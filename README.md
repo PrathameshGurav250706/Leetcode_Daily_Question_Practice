@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

@@ -5,12 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        l=0
-        r=len(numbers)-1
-        while l<r:
-            if numbers[l]+numbers[r]==target:
-                return[l+1,r+1]
-            elif numbers[l]+numbers[r]>target:
-                r-=1
-            else:
-                l+=1
+        seen={}
+        for i in range(len(numbers)):
+            diff=target-numbers[i]
+
+            if diff in seen:
+                return [seen[diff],i+1]
+            
+            seen[numbers[i]]=i+1
+        return []

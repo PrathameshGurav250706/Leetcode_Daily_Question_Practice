@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -61,6 +63,7 @@
 | [0075-sort-colors](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
@@ -89,6 +92,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,8 +115,21 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

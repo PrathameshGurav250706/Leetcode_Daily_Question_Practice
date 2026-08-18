@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
@@ -103,6 +105,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -124,10 +128,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |

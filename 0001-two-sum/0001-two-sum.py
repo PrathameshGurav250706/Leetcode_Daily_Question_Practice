@@ -5,12 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        mp = {}
-
+        seen={}
         for i in range(len(nums)):
-            diff = target - nums[i]
+            diff=target-nums[i]
 
-            if diff in mp:
-                return [mp[diff], i]
-
-            mp[nums[i]] = i
+            if diff in seen:
+                return [seen[diff],i]
+            seen[nums[i]]=i
+        return []

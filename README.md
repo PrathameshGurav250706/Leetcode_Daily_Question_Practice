@@ -54,6 +54,7 @@
 | [0283-move-zeroes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

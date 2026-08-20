@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |

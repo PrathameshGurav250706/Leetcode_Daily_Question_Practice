@@ -50,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0075-sort-colors) |
@@ -107,11 +108,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

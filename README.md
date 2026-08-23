@@ -32,6 +32,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |

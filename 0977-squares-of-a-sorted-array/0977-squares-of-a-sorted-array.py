@@ -4,4 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        return sorted([i*i for i in nums])
+        left = 0 
+        right = len(nums) - 1
+        while left <= right:
+            nums[left] = nums[left]*nums[left]
+            left = left + 1
+
+        nums.sort()
+        return nums
+        

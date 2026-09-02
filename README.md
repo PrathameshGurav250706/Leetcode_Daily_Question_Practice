@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -122,6 +124,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |

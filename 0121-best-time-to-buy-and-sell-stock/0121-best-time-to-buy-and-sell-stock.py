@@ -4,6 +4,8 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
+        # Logic is -> compare for minimum price , because get profit, if buying price is minimum
+
         minPrice=float('inf')
         maxProfit=0
         for price in prices:

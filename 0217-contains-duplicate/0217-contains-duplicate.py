@@ -4,6 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
+        # Time complexity: O(n)
+        # Space complexity: O(n)
         seen=set()
         for i in nums:
             if i in seen:

@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -71,6 +73,7 @@
 | [0234-palindrome-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -88,6 +92,7 @@
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |

@@ -22,6 +22,7 @@
 | [0015-3sum](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -214,6 +215,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->

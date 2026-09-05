@@ -4,6 +4,8 @@ class Solution(object):
         :type digits: List[int]
         :rtype: List[int]
         """
+        # Time complexity: O(n),
+        # Space complexity: O(n)
         new=0
         for i in digits:
             new=new*10+i

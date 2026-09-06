@@ -8,8 +8,10 @@ class Solution(object):
         seen={}
         for i in range(len(nums)):
             diff=target-nums[i]
-
             if diff in seen:
                 return [seen[diff],i]
             seen[nums[i]]=i
         return []
+
+        # Time complexity: O(n),
+        # Space complexity: O(n),

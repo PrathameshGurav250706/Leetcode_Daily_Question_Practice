@@ -5,21 +5,18 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        left = 0
-        right = len(nums) - 1
-        k = len(nums) - 1
-
-        result = [0] * len(nums)
-
-        while left <= right:
-
-            if abs(nums[left]) > abs(nums[right]):
-                result[k] = nums[left] * nums[left]
-                left += 1
+        left=0
+        right=len(nums)-1
+        k=len(nums)-1
+        new=[0]*len(nums)
+        while left<=right:
+            if abs(nums[left])>abs(nums[right]):
+                new[k]=nums[left]*nums[left]
+                left+=1
             else:
-                result[k] = nums[right] * nums[right]
-                right -= 1
-
-            k -= 1
-
-        return result
+                new[k]=nums[right]*nums[right]
+                right-=1
+            k-=1
+        return new
+        # Time complexity: O(n)
+        # Space complexity: O(1)

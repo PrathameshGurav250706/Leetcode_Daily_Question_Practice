@@ -219,4 +219,16 @@
 | [0066-plus-one](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

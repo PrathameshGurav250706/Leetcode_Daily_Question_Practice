@@ -47,6 +47,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -231,4 +234,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

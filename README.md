@@ -47,6 +47,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0152-maximum-product-subarray) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |

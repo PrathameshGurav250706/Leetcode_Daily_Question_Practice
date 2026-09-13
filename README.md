@@ -43,6 +43,7 @@
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
@@ -242,4 +243,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

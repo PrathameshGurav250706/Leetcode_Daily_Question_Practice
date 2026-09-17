@@ -45,6 +45,7 @@
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +87,7 @@
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |

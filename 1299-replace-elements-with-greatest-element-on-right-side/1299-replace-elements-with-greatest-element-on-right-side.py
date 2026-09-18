@@ -10,3 +10,5 @@ class Solution(object):
             arr[i]=Max
             Max=max(Max,temp)
         return arr
+        # Time complexity: O(n)
+        # Space complexity: O(1)

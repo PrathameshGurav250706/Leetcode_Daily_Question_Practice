@@ -10,3 +10,5 @@ class Solution(object):
             if i not in new:
                 data.append(i)
         return data
+        # Time complexity: O(n).
+        # Space complexity: O(n).

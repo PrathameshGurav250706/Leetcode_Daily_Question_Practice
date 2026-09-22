@@ -28,3 +28,7 @@ class Solution(object):
                 nums[start],nums[i]=nums[i],nums[start]
                 start+=1
         return nums
+
+        # Time complexity: O(n), where n is the length of nums. Each element is inspected once, and each swap is O(1).
+
+        # Space complexity: O(1) extra space, since the operation is in-place and uses only a couple of indice

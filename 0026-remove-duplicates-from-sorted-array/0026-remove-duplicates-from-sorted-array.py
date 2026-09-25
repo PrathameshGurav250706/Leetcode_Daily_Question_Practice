@@ -9,6 +9,7 @@ class Solution(object):
             if nums[i]!=nums[i-1]:
                 nums[j]=nums[i]
                 j+=1
-        return j  
+        return j
+        # Time complexity: O(n), where n is the length of nums. The loop traverses the array once.
 
-        
+        # Space complexity: O(1) extra space. The operation is in-place, using a few scalar variables

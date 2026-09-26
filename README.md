@@ -46,6 +46,7 @@
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0941-valid-mountain-array) |
@@ -125,6 +126,7 @@
 | [0414-third-maximum-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1051-height-checker) |

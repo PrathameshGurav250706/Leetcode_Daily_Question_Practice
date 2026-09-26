@@ -14,3 +14,5 @@ class Solution(object):
         for j in str(new):
             seen.append(int(j))
         return seen    
+
+       

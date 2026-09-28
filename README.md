@@ -182,6 +182,7 @@
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -73,6 +73,7 @@
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
@@ -180,6 +181,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

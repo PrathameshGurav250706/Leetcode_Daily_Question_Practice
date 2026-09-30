@@ -18,3 +18,5 @@ class Solution(object):
                 num=num//10
             num=result
         return num
+        # time complexity = O(log num)
+        # space complexity = O(1)

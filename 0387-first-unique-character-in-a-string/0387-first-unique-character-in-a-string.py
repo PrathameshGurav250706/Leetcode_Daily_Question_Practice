@@ -19,5 +19,6 @@ class Solution(object):
                 return i
 
         return -1
-
+        # Time complexity: O(n) for the first loop to build the frequency map plus O(n) for the second pass to find the first unique character, overall O(n). 
+        # Space complexity: O(k) where k is the number of distinct characters in the string (in worst case O(n)
             

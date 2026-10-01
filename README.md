@@ -266,6 +266,7 @@
 | [0189-rotate-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |

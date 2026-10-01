@@ -59,6 +59,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -133,6 +134,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -212,6 +214,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
+| [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |

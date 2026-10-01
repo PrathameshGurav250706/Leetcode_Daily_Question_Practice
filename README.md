@@ -61,6 +61,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -271,6 +272,7 @@
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |

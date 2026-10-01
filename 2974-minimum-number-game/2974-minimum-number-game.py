@@ -10,3 +10,5 @@ class Solution(object):
             new.append(nums.pop(1))
             new.append(nums.pop(0))
         return new
+        # - Time complexity: O(n^2) in the worst case, because each iteration pops from the front and then from index 1, which are O(n) operations on the list, and this repeats roughly n/2 times.
+        # - Space complexity: O(n) for the new list that stores all elements, plus O(1) extra space aside from the output.

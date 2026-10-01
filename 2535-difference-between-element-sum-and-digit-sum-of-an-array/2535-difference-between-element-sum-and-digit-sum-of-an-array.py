@@ -7,6 +7,9 @@ class Solution(object):
         total=sum(nums)
         add=0
         for i in nums:
-            for j in str(i):
-                add=add+int(j)
+            while i>0:
+                digit=i%10
+                add=add+digit
+                i=i//10
+
         return total-add

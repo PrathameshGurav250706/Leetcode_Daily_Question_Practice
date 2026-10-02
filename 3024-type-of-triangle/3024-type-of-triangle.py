@@ -16,4 +16,6 @@ class Solution(object):
         else:
             return "scalene"
 
-        
+        # Time complexity: O(1) because it performs a constant number of arithmetic and comparison operations on three elements, regardless of input size.
+
+        # Space complexity: O(1) since it uses a constant amount of additional space.

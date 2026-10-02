@@ -63,6 +63,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -199,6 +200,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3019-number-of-changing-keys) |
 ## Sliding Window
 |  |

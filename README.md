@@ -64,6 +64,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -141,6 +142,7 @@
 | [1051-height-checker](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -279,6 +281,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |
@@ -321,4 +324,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0387-first-unique-character-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

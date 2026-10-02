@@ -6,5 +6,6 @@ class Solution(object):
         """
         Max=0
         for i in accounts:
-            Max=max(Max,sum(i))
+            wealth=sum(i)
+            Max=max(Max,wealth)
         return Max

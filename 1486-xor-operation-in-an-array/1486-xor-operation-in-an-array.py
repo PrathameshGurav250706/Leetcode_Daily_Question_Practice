@@ -11,3 +11,6 @@ class Solution(object):
             result ^= start + 2 * i
 
         return result
+        Complexity
+        # Time: O(n)
+        # Space: O(1)

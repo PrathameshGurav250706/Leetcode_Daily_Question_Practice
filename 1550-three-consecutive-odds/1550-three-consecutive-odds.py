@@ -16,4 +16,6 @@ class Solution(object):
             
             i+=1
         return False
-        
+        # Time complexity: O(n), where n is the length of the input array. The loop traverses each element once.
+
+        # Space complexity: O(1), aside from a few scalar variables (i, count), no extra data structures are used.

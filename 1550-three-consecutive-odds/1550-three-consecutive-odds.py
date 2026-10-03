@@ -9,10 +9,11 @@ class Solution(object):
         while i<len(arr):
             if arr[i]%2!=0:
                 count+=1
+                if count==3:
+                    return True
             else:
                 count=0
-            if count==3:
-                return True
+            
             i+=1
         return False
         

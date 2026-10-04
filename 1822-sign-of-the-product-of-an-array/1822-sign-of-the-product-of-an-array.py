@@ -13,3 +13,6 @@ class Solution(object):
             return 0
         else:
             return -1
+        # Time complexity: O(n), where n is the length of nums. We traverse the array once to compute the product.
+
+        # Space complexity: O(1), since we only use a constant amount of extra space (the Prod variable).

@@ -45,6 +45,7 @@
 | [0485-max-consecutive-ones](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |

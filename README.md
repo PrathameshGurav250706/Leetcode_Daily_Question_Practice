@@ -198,6 +198,7 @@
 | [0344-reverse-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
+| [0657-robot-return-to-origin](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
+| [0657-robot-return-to-origin](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 ## Number Theory

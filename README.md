@@ -202,6 +202,7 @@
 | [0657-robot-return-to-origin](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -277,6 +278,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -324,6 +326,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |

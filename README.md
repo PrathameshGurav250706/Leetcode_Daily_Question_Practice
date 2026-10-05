@@ -14,6 +14,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |

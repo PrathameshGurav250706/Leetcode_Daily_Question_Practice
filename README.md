@@ -70,6 +70,7 @@
 | [2942-find-words-containing-character](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -293,6 +294,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |

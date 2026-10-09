@@ -16,8 +16,10 @@ class Solution(object):
                 min_length=min(min_length,right-left+1)
                 total-=nums[left]
                 left+=1
-
         if min_length==float('inf'):
             return 0
         return min_length
-            
+
+        # Complexity:
+        # Time Comlplexity-O(n)
+        # Space complexity-O(1)

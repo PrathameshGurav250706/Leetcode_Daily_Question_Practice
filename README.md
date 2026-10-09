@@ -171,6 +171,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0709-to-lower-case](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -289,6 +291,7 @@
 | [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -338,6 +341,7 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |

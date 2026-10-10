@@ -29,6 +29,7 @@
 | [0066-plus-one](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0136-single-number) |
@@ -198,6 +199,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0152-maximum-product-subarray) |

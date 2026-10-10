@@ -47,6 +47,7 @@
 | [0414-third-maximum-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
@@ -146,6 +147,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0905-sort-array-by-parity) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -335,6 +338,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1051-height-checker) |
 ## Bracket Sequences
 |  |

@@ -10,5 +10,7 @@ class Solution(object):
             s[left],s[right]=s[right],s[left]
             left+=1
             right-=1
+        # Time complexity: O(n), where n is the length of the string (or list) because each element is swapped once.
 
+        # Space complexity: O(1) extra space, since it performs swaps in place and uses a constant amount of additional variables.
       

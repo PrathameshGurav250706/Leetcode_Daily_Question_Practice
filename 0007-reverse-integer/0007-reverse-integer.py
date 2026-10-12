@@ -29,3 +29,6 @@ class Solution(object):
                 return 0
 
             return new
+            # Time complexity: O(log10 |x|) because the loop processes one digit per iteration, so it runs proportional to the number of digits in x. In the worst case, for 32-bit integers, that's at most about 10 iterations.
+
+            # Space complexity: O(1) since it uses a constant amount of extra space (a few integer variables) regardless of input size.

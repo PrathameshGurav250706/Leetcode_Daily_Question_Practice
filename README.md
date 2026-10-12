@@ -304,6 +304,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0189-rotate-array) |

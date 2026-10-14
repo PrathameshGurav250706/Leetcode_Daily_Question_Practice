@@ -180,6 +180,7 @@
 | [0680-valid-palindrome-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Tree
 |  |
 | ------- |

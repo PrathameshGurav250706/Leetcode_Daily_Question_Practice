@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0242-valid-anagram) |

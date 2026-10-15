@@ -77,6 +77,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
@@ -103,6 +104,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -401,4 +403,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

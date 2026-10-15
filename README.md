@@ -113,6 +113,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0141-linked-list-cycle) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0242-valid-anagram) |
@@ -383,4 +385,20 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3024-type-of-triangle) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

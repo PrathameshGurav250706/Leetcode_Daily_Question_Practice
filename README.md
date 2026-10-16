@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0027-remove-element) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -5,14 +5,24 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        if not strs:
-            return ""
+        # if not strs:
+        #     return ""
 
-        first = strs[0]
+        # first = strs[0]
 
-        for i in range(len(first)):
-            for s in strs[1:]:
-                if i >= len(s) or first[i] != s[i]:
-                    return first[:i]
+        # for i in range(len(first)):
+        #     for s in strs[1:]:
+        #         if i >= len(s) or first[i] != s[i]:
+        #             return first[:i]
 
-        return first
+        # return first
+        prefix = strs[0]
+
+        for word in strs[1:]:
+            while not word.startswith(prefix):
+                prefix = prefix[:-1]
+
+                if prefix == "":
+                    return ""
+
+        return prefix

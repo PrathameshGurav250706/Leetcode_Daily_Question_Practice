@@ -14,6 +14,7 @@ class Solution(object):
         tail=dummy
         l1=list1
         l2=list2
+
         while l1 and l2:
             if l1.val<=l2.val:
                 tail.next=l1
@@ -22,13 +23,17 @@ class Solution(object):
                 tail.next=l2
                 l2=l2.next
             tail=tail.next
+        
         while l1:
             tail.next=l1
             l1=l1.next
             tail=tail.next
+
         while l2:
             tail.next=l2
             l2=l2.next
             tail=tail.next
         return dummy.next
-        
+        # Time complexity: O(n + m), where n and m are the lengths of list1 and list2. Each node is visited exactly once during the merge.
+
+        # Space complexity: O(1) auxiliary space (excluding the space for the output list). The merge is done in place by relinking existing nodes.

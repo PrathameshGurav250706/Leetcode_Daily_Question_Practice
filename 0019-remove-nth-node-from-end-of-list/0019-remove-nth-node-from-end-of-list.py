@@ -23,3 +23,6 @@ class Solution(object):
             fast=fast.next
         slow.next=slow.next.next
         return dummy.next
+        # Time complexity: O(L), where L is the length of the linked list. The two-pointer technique traverses the list once after an initial offset, so overall linear time.
+
+        # Space complexity: O(1), aside from the fixed set of pointers and the dummy node, since only a constant number of extra pointers are used.

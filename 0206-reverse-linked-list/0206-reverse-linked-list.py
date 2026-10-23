@@ -17,4 +17,6 @@ class Solution(object):
             prev=curr
             curr=nex
         return prev
-            
+        # Time complexity: O(n), where n is the number of nodes in the linked list, since we traverse the list once.
+
+        # Space complexity: O(1), excluding the input list, as we only use a few pointers and reverse the links in place.

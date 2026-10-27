@@ -45,4 +45,6 @@ class Solution(object):
         new_head=curr.next
         curr.next=None
         return new_head
-        
+        # Time complexity: O(n), where n is the number of nodes in the linked list. You traverse the list once to find the tail and length, then potentially traverse up to length - k steps to reach the new tail.
+
+        # Space complexity: O(1), aside from a few pointers, since the rotation is done in place with a constant amount of extra space.

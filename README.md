@@ -49,6 +49,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0219-contains-duplicate-ii) |
@@ -347,6 +348,7 @@
 | [0066-plus-one](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0412-fizz-buzz) |
@@ -378,6 +380,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -408,6 +411,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
 ## Queue
 |  |
@@ -445,4 +449,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0014-longest-common-prefix) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

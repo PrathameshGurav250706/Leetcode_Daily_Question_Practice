@@ -15,3 +15,6 @@ class Solution(object):
             else:
                 data[i-1]=str(i)
         return data
+        # Time complexity: O(n). The loop iterates from 1 to n, performing a constant amount of work for each iteration (a few modulo operations and string assignments).
+
+        # Space complexity: O(n). The output list data stores n strings, one for each i, so the auxiliary space grows linearly with n. Additional fixed-space variables are constant.

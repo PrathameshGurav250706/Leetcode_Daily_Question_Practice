@@ -355,6 +355,7 @@
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -470,6 +471,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

@@ -74,6 +74,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1089-duplicate-zeros) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -354,6 +355,7 @@
 | [0258-add-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0412-fizz-buzz) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1486-xor-operation-in-an-array) |
@@ -464,4 +466,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

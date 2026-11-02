@@ -360,6 +360,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2652-sum-multiples) |
@@ -470,4 +471,5 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

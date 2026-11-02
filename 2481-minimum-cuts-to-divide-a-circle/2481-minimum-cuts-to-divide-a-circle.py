@@ -10,4 +10,5 @@ class Solution(object):
             return n/2
         else:
             return n
-        
+        # time complexity is O(1) (constant time).
+        #  Space complexity is O(1)

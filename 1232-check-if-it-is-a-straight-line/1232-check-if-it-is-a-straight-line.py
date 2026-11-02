@@ -16,3 +16,6 @@ class Solution(object):
             if y21*deltax!=x21*deltay:
                 return False
         return True
+        # Time complexity: O(n), where n is the number of coordinates. The loop iterates through coordinates once after the first two, performing constant-time arithmetic each iteration.
+
+        # Space complexity: O(1), aside from a few scalar variables used for calculations; no extra data structures are allocated that scale with n.

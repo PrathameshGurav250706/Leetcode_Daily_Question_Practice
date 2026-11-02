@@ -24,3 +24,6 @@ class Solution(object):
         if r1y1>=r2y2:
             return False
         return True
+        # Time complexity: O(1) since it performs a fixed number of arithmetic and comparison operations regardless of input size.
+
+        # Space complexity: O(1) since it uses a constant amount of extra space.

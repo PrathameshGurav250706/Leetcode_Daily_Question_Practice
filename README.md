@@ -240,6 +240,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0125-valid-palindrome) |
@@ -339,6 +340,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
@@ -404,6 +406,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PrathameshGurav250706/MySQl_Queries/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
